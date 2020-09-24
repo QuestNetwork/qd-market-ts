@@ -4,7 +4,7 @@
 
 ## Description
 
-qDesk Market is a module for qDesk. It's accessible across qDesk, you can use it with qDesk Messages, qDesk Social and other qDesk modules. This module allows peers on the network to exchange physical goods, virtual goods and allows the scheduled booking of services.
+qDesk Market is a module for [qDesk](https://qDesk.org). It's accessible across qDesk, you can use it with qDesk Messages, qDesk Social and other qDesk modules. This module allows peers on the network to exchange physical goods, virtual goods and allows the scheduled booking of services.
 
 It's not all qDesk though, qDesk Social is a protocol as well and if you are using [Quest OS](https://github.com/QuestNetwork/quest-os-js) in your applications, you can even use the underlying channels and data in your own application by booting with [Quest Social JS](https://github.com/QuestNetwork/quest-social-js).
 
