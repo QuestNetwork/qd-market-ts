@@ -36,7 +36,7 @@ This project is a lot of work and unfortunately we need to eat food (ツ)
 
 ## Development
 
-qDesk Social is a module of [qDesk](https://github.com/QuestNetwork/qDesk), so please see https://github.com/QuestNetwork/qDesk#development for instructions.
+qDesk Market is a module of [qDesk](https://github.com/QuestNetwork/qDesk), so please see https://github.com/QuestNetwork/qDesk#development for instructions.
 
 ### Commands
 
